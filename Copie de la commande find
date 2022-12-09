@@ -1,0 +1,24 @@
+$ find
+.
+./fictional
+./fictional/arrakis.jpeg
+./fictional/coruscant.jpeg
+./fictional/cybertron.jpeg
+./inhabited
+./inhabited/arrakis.jpeg
+./inhabited/coruscant.jpeg
+./inhabited/cybertron.jpeg
+./inhabited/earth.jpeg
+./real
+./real/gas-giants
+./real/gas-giants/jupiter.jpeg
+./real/gas-giants/neptune.jpeg
+./real/gas-giants/saturn.jpeg
+./real/gas-giants/uranus.jpeg
+./real/gwarf-planets
+./real/gwarf-planets/pluto.jpeg
+./real/telluric
+./real/telluric/earth.jpeg
+./real/telluric/mars.jpeg
+./real/telluric/mercury.jpeg
+./real/telluric/venus.jpeg
