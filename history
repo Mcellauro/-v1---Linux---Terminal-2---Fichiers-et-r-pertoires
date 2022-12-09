@@ -1,0 +1,162 @@
+ curl -L -o planets.zip https://github.com/WildCodeSchool/quests-resources/blob/master/terminal/planets.zip?raw=true
+  232  unzip planets.zip
+  233  mkdir -p quetes/shell/planets
+  234  mkdir quetes/planets quetes/planets/real quetes/planets/real/telluric quetes/planets/real/gas-giants quetes/planets/real/dwarf-planets
+  235  mkdir quetes/shell/planets quetes/shell/planets/real quetes/shell/planets/real/telluric quetes/shell/planets/real/gas-giants quetes/shell/planets/real/dwarf-planets
+  236  mkdir quetes/shell/planets/real real/fictional/inhabited
+  237   mkdir quetes/shell/planets/real quetes/shell/planets/real/fictional/inhabited
+  238  mkdir quetes/shell/planets/fictional quetes/shell/planets/inhabited
+  239  ls
+  240  cp planets
+  241  cd planets
+  242  ls
+  243  mv earth.jpeg real/
+  244  mv earth.jpeg quetes/shell/planets/real
+  245  ls
+  246  mv earth.jpeg desktop/quetes/shell/planets/real
+  247  cd ..
+  248  ls
+  249  cd planets.zip
+  250  cd quetes
+  251  ls
+  252  cd shell
+  253  cd planets
+  254  cd real
+  255  mv earth.jpeg /real
+  256  cd
+  257  cd ..
+  258  ls
+  259  cd efaut
+  260  cd default
+  261  ls
+  262  cd desktop
+  263  lq
+  264  ls
+  265  ls
+  266  cd quetes
+  267  cd ..
+  268  cd ..
+  269  cd ..
+  270  ls
+  271  cd
+  272  ls
+  273  cd desktop
+  274  ls
+  275  cd planets
+  276  ls
+  277  mv earth.jpeg /real/
+  278  mv /desktop/planets/earth.jpeg /quetes/shell/planets/real
+  279  cd ..
+  280  ls
+  281  cd quetes
+  282  cd shell
+  283  cd planets
+  284  cd real
+  285  cd ..
+  286  mv mercury.jpeg venus.jpeg earth.jpeg real
+  287  cd quetes
+  288  pwd
+  289  cd home
+  290  cd ..
+  291  cd..
+  292  cd ..
+  293  cd ..
+  294  cd ..
+  295  ls
+  296  cd home
+  297  cd /home/Utilisateur/
+  298  curl -L -o planets.zip https://github.com/WildCodeSchool/quests-resources/blob/master/terminal/planets.zip?raw=true
+  299  unzip planets.zip
+  300  ls
+  301  cd planets
+  302  mkdir real fictional inhabited
+  303  ls
+  304  mv earth.jpeg real
+  305  mv jupiter.jpeg mars.jpeg mercury.jpeg neptune.jpeg pluto.jpeg saturn.jpeg uranus.jpeg venus.jpeg real/
+  306  arrakis.jpeg coruscant.jpeg cybertron.jpeg fictional/
+  307  ls
+  308  arrakis.jpeg  coruscant.jpeg  cybertron.jpeg fictional/
+  309  coruscant.jpeg  cybertron.jpeg fictional/
+  310  mv arrakis.jpeg  coruscant.jpeg  cybertron.jpeg fictional/
+  311  cd real
+  312  mkdir telluric gas-giants gwarf-planets
+  313  mv mercury.jpeg venus.jpeg earth.jpeg mars.jpeg telluric/
+  314  mv jupiter.jpeg neptune.jpeg saturn.jpeg uranus.jpeg gas-giants
+  315  cd ..
+  316  ls
+  317  cd fictional
+  318  ls
+  319  cp arrakis.jpeg  coruscant.jpeg  cybertron.jpeg earth inhabited/
+  320  cd ..
+  321  ls
+  322  cd inhabited
+  323  cp arrakis.jpeg  coruscant.jpeg  cybertron.jpeg earth inhabited/
+  324  cp arrakis.jpeg  coruscant.jpeg  cybertron.jpeg earth
+  325  cp arrakis.jpeg  coruscant.jpeg  cybertron.jpeg earth.jpeg
+  326  cp arrakis.jpeg  coruscant.jpeg  cybertron.jpeg earth.jpeg inhabited/
+  327  cd ..
+  328  ls
+  329  cd inhabited
+  330  cd ..
+  331  cd fictional
+  332  cp jpeg* /inhabited
+  333  cp jpeg* inhabited/
+  334  cp arrakis.jpeg  coruscant.jpeg  cybertron.jpeg inhabited/
+  335  cp arrakis.jpeg  coruscant.jpeg  cybertron.jpeg inhabited
+  336  cp * /inhabited
+  337  ls -l
+  338  ls
+  339  cp * ../inhabited
+  340  cp earth.jpeg /inhabited
+  341  cd ..
+  342  ls
+  343  cd real
+  344  cp earth.jpeg /inhabited
+  345  ls
+  346  cd telluric
+  347  ls
+  348  cp earth.jpeg /inhabited
+  349  cp earth.jpeg ~/Desktop/quetes/shell/planets/real/inhabited
+  350  cp earth.jpeg ~/Desktop/quetes/shell/planets/real/inhabited/
+  351  cd ..
+  352  cd ..
+  353  cp earth.jpeg /inhabited
+  354  cd ..
+  355  cp earth.jpeg /inhabited
+  356  ls
+  357  cd planets
+  358  ls
+  359  cd real
+  360  cd telluric
+  361  cp earth.jpeg /inhabited
+  362  cp earth.jpeg ~/Desktop/quetes/shell/planets/real/inhabited/
+  363  cp earth.jpeg ~/Desktop/quetes/shell/planets/real/inhabited
+  364  cd ..
+  365  LS
+  366  cd ..
+  367  cp earth.jpeg inhabited/
+  368  cp earth.jpeg /inhabited
+  369  cp earth.jpeg quetes/shell/planets/inhabited
+  370  ls
+  371  cd real
+  372  cd telluric
+  373  pwd
+  374  cp earth.jpeg /c/Users/RYUU/Desktop/quetes/shell/planets/inhabited
+  375  cd ..
+  376  cd ..
+  377  LS
+  378  cd ..
+  379  LS
+  380  cd planets
+  381  cd real
+  382  rm pluto.jpeg
+  383  cd ..
+  384  cd ..
+  385  ls
+  386  find
+  387  rm planets.zip
+  388  cd planets
+  389  find
+  390  history
+
+ 
